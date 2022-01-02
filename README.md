@@ -3,8 +3,8 @@
 
 ![alt text](https://github-readme-stats.vercel.app/api?username=jimishf&show_icons=true&theme=react&count_private=true&include_all_commits=true)
 
-<br>
-<h2 id="jimishf-tech">Favorite Tech</h2>
+<h2 id="jimishf-tech">Tech</h2>
+
 > Tools, languages, and other things that I like to work with.
 
 <table align="center">
@@ -12,7 +12,7 @@
     <td align="center" width="96">
       <a href="#jimishf-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
+      </a>``
       <br>JavaScript
     </td>
     <td align="center" width="96">
