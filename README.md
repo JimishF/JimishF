@@ -1,5 +1,5 @@
 <h1 id="jimishf-title">:wave: Hello there! I'm Jimish Fotariya</h1>
-<h3>I am a Web afficialnado.</h3>
+<h3>I am a Web aficionado.</h3>
 
 ![alt text](https://github-readme-stats.vercel.app/api?username=jimishf&show_icons=true&theme=react&count_private=true&include_all_commits=true)
 
