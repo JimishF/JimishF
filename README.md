@@ -53,7 +53,7 @@
     </td>
     <td align="center"> 
       <a href="#jimishf-tech" >
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="48" style="object-fit: contain" alt="Docker" style="object-fit: contain" />
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="48" style="object-fit: contain" alt="Docker" style="object-fit: contain" />
       </a>
       <br>Docker
     </td>
