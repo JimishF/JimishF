@@ -59,7 +59,7 @@
     </td>
     <td align="center"> 
       <a href="#jimishf-tech" >
-        <img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" alt="Nginx"  width="48" />
+        <img src="https://img.icons8.com/?size=128&id=t2x6DtCn5Zzx&format=png" alt="Nginx"  width="48" />
       </a>
       <br>Nginx
     </td>
