@@ -188,8 +188,5 @@
 [stackoverflow]: https://stackoverflow.com/users/3599251/jimish-fotariya/ "StackOverflow"
 
 
-
-[![Jimish's github activity graph](https://activity-graph.herokuapp.com/graph?username=jimishf&theme=react-dark)](https://github.com/jimishf)
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jimishf&theme=react-dark&border_radius=100" />
 
