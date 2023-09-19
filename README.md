@@ -1,8 +1,7 @@
 <h1 id="jimishf-title">:wave: Hello there! I'm Jimish Fotariya</h1>
 <h3>I am a Web aficionado.</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jimishf&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimishf&theme=gotham&layout=compact&count_private=true&include_all_commits=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jimishf&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimishf&theme=gotham&layout=compact&count_private=true&include_all_commits=true&show_icons=true" />
 
 <h2 id="jimishf-tech">Tech</h2>
 
