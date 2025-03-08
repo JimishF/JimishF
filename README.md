@@ -5,16 +5,16 @@
 
 <h2 id="jimishf-tech">Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, technologies, and other things that I like to work with.
+
 <table>
   <tr>
-    <td align="center">
+   <td align="center">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
         width="64"
-        alt="JavaScript"
+        alt="TypeScript"
       />
-      <br />JavaScript
     </td>
     <td align="center">
       <img
@@ -22,7 +22,6 @@
         width="64"
         alt="React"
       />
-      <br />React
     </td>
     <td align="center">
       <img
@@ -30,7 +29,6 @@
         width="64"
         alt="NestJS"
       />
-      <br />NestJS
     </td>
     <td align="center">
       <img
@@ -38,7 +36,6 @@
         width="64"
         alt="Node JS"
       />
-      <br />Node
     </td>
     <td align="center">
       <img
@@ -46,7 +43,6 @@
         width="64"
         alt="Redux"
       />
-      <br />Redux
     </td>
     <td align="center">
       <img
@@ -54,7 +50,6 @@
         width="64"
         alt="Apollo GraphQL"
       />
-      <br />Apollo
     </td>
     <td align="center">
       <img
@@ -62,36 +57,31 @@
         width="64"
         alt="GraphQL"
       />
-      <br />GraphQL
+    </td>
+        <td align="center">
+      <img
+        src="https://media.zeemly.com/zeemly/product/material-ui.png"
+        width="64"
+        alt="Material UI"
+      />
     </td>
     <td align="center">
       <img
-        src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"
-        width="64"
-        style="object-fit: contain"
-        alt="Docker"
-        style="object-fit: contain"
+        src="https://p5js.org/assets/img/p5js.svg"
+        width="45"
+        height="45"
+        alt="p5js"
       />
-      <br />Docker
-    </td>
-    <td align="center">
-      <img
-        src="https://img.icons8.com/?size=128&id=t2x6DtCn5Zzx&format=png"
-        alt="Nginx"
-        width="64"
-      />
-      <br />Nginx
     </td>
   </tr>
 
   <tr>
-    <td align="center">
+   <td align="center">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
         width="64"
-        alt="TypeScript"
+        alt="JavaScript"
       />
-      <br />TypeScript
     </td>
     <td align="center">
       <img
@@ -99,7 +89,6 @@
         width="64"
         alt="VueJS"
       />
-      <br />VueJs
     </td>
     <td align="center">
       <img
@@ -107,7 +96,13 @@
         width="64"
         alt="Laravel"
       />
-      <br />Laravel
+    </td>
+    <td align="center">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg"
+        width="64"
+        alt="TailWind"
+      />
     </td>
     <td align="center">
       <img
@@ -115,7 +110,13 @@
         width="64"
         alt="PHP"
       />
-      <br />PHP
+    </td>
+    <td align="center">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png"
+        width="64"
+        alt="Postgres"
+      />
     </td>
     <td align="center">
       <img
@@ -123,31 +124,6 @@
         width="64"
         alt="MySql"
       />
-      <br />MySql
-    </td>
-    <td align="center">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
-        width="64"
-        alt="Git"
-      />
-      <br />Git
-    </td>
-    <td align="center">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
-        width="64"
-        alt="Python"
-      />
-      <br />Python
-    </td>
-    <td align="center">
-      <img
-        src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png"
-        width="64"
-        alt="Flask"
-      />
-      <br />Flask
     </td>
     <td align="center">
       <img
@@ -155,50 +131,51 @@
         width="64"
         alt="Mongo DB"
       />
-      <br />MongoDB
     </td>
+    <td align="center">
+      <img
+        src="https://library.shadcnblocks.com/images/block/logos/shadcn-ui-wordmark.svg"
+        width="64"
+        alt="Shadcn"
+      />
+    </td>
+    
   </tr>
   <tr>
-    <td align="center">
+      <td align="center">
       <img
-        src="https://media.zeemly.com/zeemly/product/material-ui.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
         width="64"
-        alt="Material UI"
+        alt="AWS"
       />
-      <br />Material ui
+    </td>
+      <td align="center">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/300px-Terraform_Logo.svg.png"
+        width="64"
+        alt="Terraform"
+      />
     </td>
     <td align="center">
       <img
-        src="https://buefy.org/static/img/buefy.1d65c18.png"
+        src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"
         width="64"
-        style="object-fit: contain"
-        alt="Buefy"
+        alt="Docker"
       />
-      <br />Buefy
     </td>
     <td align="center">
       <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-        width="64"
-        alt="TailWind"
-      />
-      <br />TailWind
-    </td>
-    <td align="center">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"
-        width="64"
-        alt="Bootstrap"
-      />
-      <br />Bootstrap
-    </td>
-    <td align="center">
-      <img
-        src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"
         width="64"
         alt="Linux"
       />
-      <br />Linux
+    </td>
+    <td align="center">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
+        width="64"
+        alt="Git"
+      />
     </td>
     <td align="center">
       <img
@@ -206,45 +183,33 @@
         width="64"
         alt="Bash"
       />
-      <br />Bash
     </td>
     <td align="center">
       <img
-        src="https://p5js.org/assets/img/p5js.svg"
-        width="45"
-        height="45"
-        style="object-fit: contain"
-        alt="p5js"
-      />
-      <br />Processing
-    </td>
-    <td align="center">
-      <img
-        src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png"
+        src="https://img.icons8.com/?size=128&id=t2x6DtCn5Zzx&format=png"
+        alt="Nginx"
         width="64"
-        alt="Firebase"
       />
-      <br />Firebase
     </td>
     <td align="center">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
         width="64"
-        alt="AWS"
+        alt="Python"
       />
-      <br />AWS
+    </td>
+    <td align="center">
+      <img
+        src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png"
+        width="64"
+        alt="Flask"
+      />
     </td>
   </tr>
 </table>
 
-
-
 [linkedin]: https://www.linkedin.com/in/JimishFotariya "LinkedIn"
-
 [twitter]: https://twitter.com/JimishFotariya "Twitter"
-
 [stackoverflow]: https://stackoverflow.com/users/3599251/jimish-fotariya/ "StackOverflow"
 
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jimishf&theme=gotham&border_radius=100" />
-
