@@ -211,5 +211,3 @@
 [linkedin]: https://www.linkedin.com/in/JimishFotariya "LinkedIn"
 [twitter]: https://twitter.com/JimishFotariya "Twitter"
 [stackoverflow]: https://stackoverflow.com/users/3599251/jimish-fotariya/ "StackOverflow"
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jimishf&theme=gotham&border_radius=100" />
